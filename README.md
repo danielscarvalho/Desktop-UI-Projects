@@ -16,4 +16,4 @@ Projects for Computer Engineering students
 - Database general CRUD App (MySQL, Oracle, MS SQL Server, Postgrees, etc...)
 - MongoDB Navigator Client
 - SQL Database Navigator Client
-- 
+- Dashboard and graphic visualization explorer
