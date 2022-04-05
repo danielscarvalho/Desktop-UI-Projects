@@ -1,5 +1,6 @@
 # Desktop-UI-Projects
 Desktop UI (GUI) projects JavaFX - Java
+Projects for Computer Engineering students
 
 - Image Editor
 - Git GUI
