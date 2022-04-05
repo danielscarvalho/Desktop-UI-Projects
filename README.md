@@ -11,5 +11,8 @@ Desktop UI (GUI) projects JavaFX - Java
 - File Manager
 - Music or video player
 - Mobile App for Android (Java)
-- WEB API test tool (such as Postman)
+- WEB API test tool (Postman inspired)
+- Database general CRUD App (MySQL, Oracle, MS SQL Server, Postgrees, etc...)
+- MongoDB Navigator Client
+- SQL Database Navigator Client
 - 
