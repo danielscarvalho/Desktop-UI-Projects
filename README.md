@@ -17,3 +17,4 @@ Projects for Computer Engineering students
 - MongoDB Navigator Client
 - SQL Database Navigator Client
 - Dashboard and graphic visualization explorer
+- E-Mail client
