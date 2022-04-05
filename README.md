@@ -5,5 +5,9 @@ Desktop UI (GUI) projects JavaFX - Java
 - Git GUI
 - Crontab GUI (Script Scheduling)
 - Text editor
-- IDE Script Editor (Bash, JavaScript, Python, etc)...
+- IDE Script Editor (Bash, JavaScript, Python, HTML, etc)...
+- 2D Game
+- 3D Game
+- File Manager
+- Music or video player
 - 
