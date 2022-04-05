@@ -20,3 +20,8 @@ Projects for Computer Engineering students
 - E-Mail client
 - Browser
 - Secure Chat
+- CAD/CAM Project
+    - Datacenter design
+    - Circuit design
+    - Speakers design
+    - Office design
