@@ -18,3 +18,5 @@ Projects for Computer Engineering students
 - SQL Database Navigator Client
 - Dashboard and graphic visualization explorer
 - E-Mail client
+- Browser
+- Secure Chat
