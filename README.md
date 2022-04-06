@@ -7,7 +7,12 @@ Projects for Computer Engineering students
 - Git GUI
 - Crontab GUI (Script Scheduling -  Robot)
 - Text editor
-- IDE Script Editor (Bash, JavaScript, Python, HTML, etc)...
+- IDE Script Editor (
+    - Bash
+    - JavaScript
+    - Python
+    - HTML
+    - Julia, etc
 - 2D Game
 - 3D Game
 - File Manager
@@ -20,7 +25,7 @@ Projects for Computer Engineering students
     - MS SQL Server
     - Postgrees
     - SQLite
-    - MongoDB 
+    - MongoDB, etc
 - Navigator Client
 - SQL Database Navigator Client
 - Dashboard and graphic visualization explorer
