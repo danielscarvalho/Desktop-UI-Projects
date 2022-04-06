@@ -20,6 +20,7 @@ Projects for Computer Engineering students
 - E-Mail client
 - Browser
 - Secure Chat
+- Q&A (Quiz) Editor (XML do Moodle)
 - CAD/CAM Project
     - Datacenter design
     - Circuit design
