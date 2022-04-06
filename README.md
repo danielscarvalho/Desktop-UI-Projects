@@ -14,8 +14,14 @@ Projects for Computer Engineering students
 - Music or video player
 - Mobile App for Android (Java)
 - WEB API test tool (Postman inspired)
-- Database general CRUD App (MySQL, Oracle, MS SQL Server, Postgrees, etc...)
-- MongoDB Navigator Client
+- Database general CRUD App
+    - MySQL
+    - Oracle
+    - MS SQL Server
+    - Postgrees
+    - SQLite
+    - MongoDB 
+- Navigator Client
 - SQL Database Navigator Client
 - Dashboard and graphic visualization explorer
 - E-Mail client
