@@ -7,7 +7,7 @@ Projects for Computer Engineering students
 - Git GUI
 - Crontab GUI (Script Scheduling -  Robot)
 - Text editor
-- IDE Script Editor (
+- IDE Script Editor
     - Bash
     - JavaScript
     - Python
