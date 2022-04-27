@@ -19,6 +19,7 @@ Projects for Computer Engineering students
 - Music or video player
 - Mobile App for Android (Java)
 - WEB API test tool (Postman inspired)
+- XML and SOAP API navigator and test tool (SoapUI inspired)
 - Database general CRUD App
     - MySQL
     - Oracle
