@@ -40,3 +40,5 @@ Projects for Computer Engineering students
     - Speakers design
     - Office design
  - Firewall IPTABLES GUI
+ - L-System designer
+ - Fractal Explorer
