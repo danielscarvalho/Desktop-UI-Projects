@@ -43,3 +43,9 @@ Projects for Computer Engineering students
  - L-System designer
  - Fractal Explorer
  - YAML Parser - Tree visual editor
+ - Log Analyzer
+    - Linux log files
+    - Windows log files
+    - Mac log files
+    - Database log files
+    - WEB Server log files 
